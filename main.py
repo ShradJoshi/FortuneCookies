@@ -1,0 +1,3 @@
+import fortunecookies
+
+print(fortunecookies)
